@@ -1,0 +1,55 @@
+.nav-bar{
+    background-color: white;
+    box-shadow: 0px 0px 10px 0px #0005;
+}
+
+.nav-item{
+    color: black;
+}
+
+.nav-item:hover{
+    cursor: pointer;
+}
+
+.image{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background-image: url("../resources/images/logo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+th{
+    background-color: #000088;
+    color: #00AAFF;
+    padding: 5px;
+}
+
+.image-container{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.card-img-top{
+    width: 100px;
+    height: auto;
+}
+
+.nav-link{
+    padding: 0px;
+}
+
+
+
+
+
+
+
+
+
+.button-style{
+  background-color: #000088;  
+}
